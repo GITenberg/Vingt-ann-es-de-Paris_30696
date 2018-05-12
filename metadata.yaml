@@ -1,0 +1,48 @@
+_repo: Vingt-ann-es-de-Paris_30696
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Daudet, Alphonse
+    alias: Daudet, Louis Marie Alphonse
+    birthdate: &id001 1840
+    deathdate: 1897
+    gutenberg_agent_id: '727'
+    url: http://www.gutenberg.org/2009/agents/727
+    wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gill, André
+    aliases:
+    - Guineo Gill, Louis Alexandre Gosset de
+    - Guines, Louis-Alexandre Gosset de
+    - Gill, Andre
+    - De Guineo Gill, Louis Alexandre Gosset
+    birthdate: *id001
+    deathdate: 1885
+    gutenberg_agent_id: '34760'
+    url: http://www.gutenberg.org/2009/agents/34760
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2009-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30696'
+  lccn: '20008167'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- History -- 19th century'
+- !lcc 'PQ'
+tableOfContents: Préface -- Histoire d'un Melon -- Le Musée Du Luxembourg -- Jules
+  Vallès -- Feu le bœuf-gras -- Actes en vers -- Pauvres censeurs -- L'inflexible
+  Piétri -- Sermon de carême -- Clément Thomas -- Le Modèle -- A L'école des Beaux-Arts
+  -- Le Tableau de Marcel -- Le Chauffeur -- Gustave Courbet -- Le Vol -- Portraits
+  après décès -- Charenton -- Eugene Vermesch -- Le Nain. Souvenir du pavé latin.
+  -- La Charge de M. Thiers -- Lettre de Populot à son cousin Bibi -- L'Ouvrier boulanger
+title: Vingt années de Paris
+url: http://www.gutenberg.org/ebooks/30696
