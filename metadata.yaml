@@ -4,7 +4,7 @@ contributor:
   commentator:
     agent_name: Daudet, Alphonse
     alias: Daudet, Louis Marie Alphonse
-    birthdate: &id001 1840
+    birthdate: 1840
     deathdate: 1897
     gutenberg_agent_id: '727'
     url: http://www.gutenberg.org/2009/agents/727
@@ -20,11 +20,13 @@ creator:
     - Guines, Louis-Alexandre Gosset de
     - Gill, Andre
     - De Guineo Gill, Louis Alexandre Gosset
-    birthdate: *id001
+    birthdate: 1840
     deathdate: 1885
     gutenberg_agent_id: '34760'
     url: http://www.gutenberg.org/2009/agents/34760
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30696#Vingt-ann-es-de-Paris
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2009-12-17'
 gutenberg_type: Text
